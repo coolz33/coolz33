@@ -26,7 +26,7 @@ C’est grâce à cette double culture « système + dev » que je souhaite mett
 Je commence actuellement à faire quelques projet, afin de mettre en application mes connaissances.
 
 
-- Aussi je travail depuis 1 mois sur une page web **gestion de cours de pilates**[https://pilates.coolz.fr/]
+- Aussi je travail depuis 1 mois sur une page web **gestion de cours de pilates** [https://pilates.coolz.fr/]
 
 Le site, est en vanilla JS (en attendant de maitriser un peu mieux react, ou angular).
 Il utilise une base de donnée en Mysql.
@@ -36,7 +36,7 @@ Le site est fonctionnel, il reste quelques détails à paufiner, et à vérifier
 
 Le site est héberger sur un serveur linux chez IONOS que j'ai intégralement configurer, en utilisant NGINX et PORTAINER (docker) pour héberger tous mes projets. 
 
-Vous pouvez acceder au projet sur github **ici**https://github.com/coolz33/site-pilates
+Vous pouvez acceder au projet sur github **ici** https://github.com/coolz33/site-pilates
 
 
 - 📫 me contacter **sebastien.agier@gmail.com**
