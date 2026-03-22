@@ -1,9 +1,44 @@
 <h1 align="center">Bonjour 👋, Je m'appelle Sébastien AGIER</h1>
 <h3 align="center">Je suis un passionné de développement, et aujourd'hui je suis en reconversion professionnel dans ce milieu</h3>
 
-- Je travail actuelement sur une page web **pilate**[https://pilates.coolz.fr/]
+Après plus de 20 ans d’expérience dans la gestion de matériel et de parcs informatiques, je me lance aujourd’hui un nouveau défi : convertir ma passion pour la programmation en métier.
+Le développement a toujours été ma ligne directrice.
+
+Bien que mon itinéraire professionnel ait commencé dans le domaine du matériel, de l’infrastructure et des réseaux, je n'ai jamais interrompu ma pratique de la programmation en parallèle. 
+
+A l’origine, mon BTS consistait déjà à programmer des applications en C++. 
+
+Par la suite, j'ai continué à me former de manière autonome sur des sites tels que Udemy, OpenClassrooms, et grafikart afin d'acquérir une maîtrise solide des bases : HTML, CSS, PHP et JavaScript. 
+
+J'ai récemment décidé d'approfondir mes connaissances en me tournant vers Symfony et Angular.
+C’est pour mettre cette évolution en œuvre que je me suis inscrit, pour octobre prochain, en 3ème année de Bachelor en développement web à l’EEMI Lyon.
+
+Aujourd'hui, je cherche l'équipe au sein de laquelle je pourrai faire mes preuves en alternance, une semaine à l’école pour 3 semaines en entreprise.
+
+Qu’est-ce qui me distingue ? 
+
+Ma maturité technique. 
+
+Mon expérience approfondie en tant que technicien m’a appris à résoudre des problèmes complexes, à gérer l’urgence et à comprendre les besoins réels des utilisateurs.
+Je connais le fonctionnement d’un serveur, ce qu’est un déploiement et l’importance de la sécurité.
+C’est grâce à cette double culture « système + dev » que je souhaite mettre mes compétences au service de votre entreprise. Je suis curieux, j’aime apprendre et je n’ai pas peur de me plonger dans la documentation technique pour trouver des solutions.
+
+Je commence actuelement à faire quelques projet, afin de mettre en application mes connaissances.
 
 - j'apprend actuelement le **javascript**
+
+- Aussi je travail actuelement sur une page web **gestion de cours de pilates**[https://pilates.coolz.fr/]
+
+Le site, est en vanilla JS (en attendant de maitriser un peu mieux react, ou angular).
+Il utilise une base de donnée en Mysql.
+Il y a toute une partie de gestion du site dans l'administration, qui permet de completement gérer les cours, les utilisateurs, les tarifs, newsletter, et livre de recette lié aux achats, effectué grace à STRIPE.
+
+Le site est fonctionnel, il reste quelques détails à paufiner, et à vérifier la sécurité et éviter toutes les failles possibles.
+
+Le site est héberger sur un serveur linux chez IONOS que j'ai intégralement configurer, en utilisant NGINX et PORTAINER (docker) pour héberger tous mes projets. 
+
+
+
 
 - 📫 me contacter **sebastien.agier@gmail.com**
 
